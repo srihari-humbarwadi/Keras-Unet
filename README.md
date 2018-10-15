@@ -10,3 +10,8 @@ You can download the pretrained weights from here
 [Part 1](https://youtu.be/nuMQ4LNMWu8)
 [Part 2](https://youtu.be/wxh-zhL5_9w)
 
+## Image results
+![1](outputs/401.png)
+![1](outputs/116.png)
+![1](outputs/4905.png)
+![1](outputs/4418.png)
